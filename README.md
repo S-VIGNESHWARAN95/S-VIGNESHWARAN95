@@ -1,3 +1,4 @@
+![person-playing-3d-video-games-device](https://github.com/user-attachments/assets/b0140b7d-2902-4563-9e28-9d3c09f36d6f)
 # 👋 Hi, I'm Vigneshwaran S
 
 🎯 **Data Analyst | Python & SQL | Power BI | Tableau**
@@ -39,3 +40,4 @@
 ---
 
 ⭐ *Good data tells a story — my role is to make it clear and actionable.*
+
