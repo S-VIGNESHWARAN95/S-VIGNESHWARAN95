@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Vigneshwaran S
 
-<!--
-**S-VIGNESHWARAN95/S-VIGNESHWARAN95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Python & SQL | Power BI | Tableau**
+📍 Bangalore, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* Computer Science graduate focused on **data analysis & visualization**
+* Experienced in working with **large datasets** and building dashboards
+* Translate data into **clear, actionable business insights**
+* Interested in roles driving **efficiency, growth, and strategy**
+
+---
+
+## 🧠 Skills
+
+| Programming & Querying | Analytics & Visualization   | Tools & Platforms |
+| ---------------------- | --------------------------- | ----------------- |
+| Python (Pandas, NumPy) | Power BI (DAX, Power Query) | Git & GitHub      |
+| SQL                    | Tableau                     | VS Code           |
+| Java (Basic)           | Advanced Excel              | MS Office         |
+
+---
+
+## 📜 Certifications
+
+* **Data Analysis** – Pumo Technovation (2025)
+* **Career Essentials in Data Analysis** – Microsoft & LinkedIn
+
+---
+
+## 📫 Contact
+
+📧 [vigneshwarans507@gmail.com](mailto:vigneshwarans507@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/vigneshwaran-s-a59149293)
+
+---
+
+⭐ *Good data tells a story — my role is to make it clear and actionable.*
