@@ -1,4 +1,4 @@
-![CODER BLAH](https://github.com/user-attachments/assets/9a83800b-79b9-4815-9291-75efad5ff473)
+
 ![CODING IN RAIN](https://github.com/user-attachments/assets/b09bde17-66e7-4036-8ae8-7396724f0e9c)
 
 # 👋 Hi, I'm Vigneshwaran S
